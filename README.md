@@ -61,3 +61,4 @@ class f {
 
 ## Enlaces
 
+Dentro de un párrafo podemos poner links a [otros archivos markdown en mi repo](pantalla.md), links a archivos normales en mi repo; [ejemplo.html](/ejemplo.html) o a una ruta HTTPS [INA](https://www.ina.ac.cr).
