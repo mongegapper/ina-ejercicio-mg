@@ -68,3 +68,4 @@ Angie   |   7  |
 
 ## Enlaces 
 
+dentro de un párrafo podemos poner links a otros [archivos en mi repo](pantallas.md), link a archivos normales en mi repo, ver [ejemplo.html](ejemplo.html) o una ruta HTTPS [INA](https://www.ina.ac.cr)
