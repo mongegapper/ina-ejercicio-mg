@@ -1,5 +1,5 @@
 # Pantalla del Sistema
-![Captura de Pantalla](docs/auto.jpg)
+![Captura de Pantalla](docs/Auto.jpg)
 
 ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
