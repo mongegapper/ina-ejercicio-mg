@@ -6,3 +6,7 @@
 ## 👍 mas pantallas
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+- [x] Tarea 1
+- [ ] Tarea 2
+- [ ] Tarea 3
