@@ -10,3 +10,10 @@
 - [x] Tarea 1
 - [ ] Tarea 2
 - [ ] Tarea 3
+
+## Símbolos Matemáticos
+Representación con kaTEX
+Area es $\pi r^2$
+$$A_{tr}=\frac{b\cdot h}{2}$$
+
+
