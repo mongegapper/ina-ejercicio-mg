@@ -7,4 +7,18 @@
 ## 😍 Más pantallas
 WIN-PUNTO
 
+- [x] Tarea 1
+- [ ] Tarea 2
+- [ ] Tarea 
+
+## Simbolos matemáticos
+Representaciones con KaTEX
+
+Area es $\pi r^2$
+
+$$A_{tr}=\frac{b\cdot h}{2}$$
+
+
+
+
 
