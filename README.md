@@ -41,6 +41,7 @@ class f {
 1. Texto
 2. Tipo
 3. Adornos
+3. Animales
 
 - Otro
 - Otro
