@@ -12,4 +12,4 @@ jobs:
         uses: actions/checkout@v2
       - run: echo "El repositorio ha sido clonado al equipo"
       - name: Listar los archivos del repo
-      - run: ls ${{ github.workspace }}
+        run: ls ${{ github.workspace }}
